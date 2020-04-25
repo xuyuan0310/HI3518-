@@ -1,0 +1,6 @@
+“＃HI3518-” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/xuyuan0310/HI3518-.git
+ git push -u origin master
